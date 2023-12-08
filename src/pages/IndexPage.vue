@@ -8,7 +8,7 @@
     >
       <q-input
         filled
-        v-model="=name"
+        v-model="name"
         label="ชื่อ-สกุล"
         hint="ชื่อและนามสกุล"
         lazy-rules
